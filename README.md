@@ -1,2 +1,2 @@
-# banking-application-in-c-
-A banking application made as Assignment 1 of Object Oriented Design Course 
+# A Banking Maching implemented in C++
+A banking application made as Assignment for Object Oriented Design Course 
